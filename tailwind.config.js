@@ -12,7 +12,7 @@ module.exports = {
     extend: {
       
        fontFamily:{
-         'pop':['Poppins', 'monospace']
+         'pop':['Poppins', 'system-ui', 'sans-serif']
        },
        
     }

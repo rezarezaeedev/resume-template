@@ -425,6 +425,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   display: none;
 }
 
+html {
+  font-family: Poppins, system-ui, sans-serif;
+}
+
 *, ::before, ::after{
   --tw-translate-x: 0;
   --tw-translate-y: 0;
@@ -471,7 +475,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .font-pop{
-  font-family: Poppins, monospace;
+  font-family: Poppins, system-ui, sans-serif;
 }
 
 .font-extralight{
@@ -497,5 +501,3 @@ Ensure the default browser behavior of the `hidden` attribute.
 .font-bolder{
   font-weight: 900;
 }
-
- 
