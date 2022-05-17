@@ -7,4 +7,12 @@
     html {
       font-family: Poppins, system-ui, sans-serif;
     }
-  }
+}
+
+.myshape{
+  border-radius: 90% / 20% ;
+  border-start-end-radius: 0;
+  border-start-start-radius: 0;
+  
+}
+ 
