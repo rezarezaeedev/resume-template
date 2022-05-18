@@ -613,11 +613,6 @@ html {
   padding-right: 3rem;
 }
 
-.px-3{
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
-}
-
 .pt-16{
   padding-top: 4rem;
 }
@@ -632,10 +627,6 @@ html {
 
 .pr-3{
   padding-right: 0.75rem;
-}
-
-.pr-36{
-  padding-right: 9rem;
 }
 
 .text-center{
