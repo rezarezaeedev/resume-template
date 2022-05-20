@@ -1,0 +1,4 @@
+        <!-- profile photo -->
+        <div class="flex items-center"> 
+            <img class="laptop:w-64 laptop:h-64 phone:w-60 phone:h-60 w-48 h-48 rounded-full object-cover bg-auto hover:scale-125 transition-all ease-in-out outline-none ring-rezaprimary ring-4" src="images/mr2.jpg" alt="Reza Rezaee face photo">
+        </div>

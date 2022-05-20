@@ -10,10 +10,19 @@
 
 
 .myshape{
-  border-radius: 90% / 20% ;
+  border-radius: 90% / 15% ;
   border-start-end-radius: 0;
   border-start-start-radius: 0;
   
+}
+
+@media screen and (max-width:768px) {
+  .myshape{
+    border-radius: 90% / 8% ;
+    border-start-end-radius: 0;
+    border-start-start-radius: 0;
+    
+  }
 }
 
 ::-webkit-scrollbar{
@@ -44,5 +53,20 @@
   border-radius: 10px;
 }
 
+ 
+::selection{
+  color:#7B2CFF;
+  background: #FFAF40;
+  border-radius: 10px;
+
+}
+ 
+::-moz-selection{
+  color:#7B2CFF;
+  background: #FFAF40;
+  border-radius: 10px;
+
+}
+ 
 
 }
