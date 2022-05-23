@@ -1276,6 +1276,26 @@ html {
     padding-right: 3rem;
   }
 
+  .phone\:px-44{
+    padding-left: 11rem;
+    padding-right: 11rem;
+  }
+
+  .phone\:px-16{
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+
+  .phone\:px-28{
+    padding-left: 7rem;
+    padding-right: 7rem;
+  }
+
+  .phone\:px-24{
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+
   .phone\:text-5xl{
     font-size: 3rem;
     line-height: 1;
@@ -1357,6 +1377,10 @@ html {
 
   .laptop\:w-5{
     width: 1.25rem;
+  }
+
+  .laptop\:w-8\/12{
+    width: 66.666667%;
   }
 
   .laptop\:min-w-\[26rem\]{
