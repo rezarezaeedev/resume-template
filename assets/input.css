@@ -58,16 +58,19 @@
   color:#7B2CFF;
   background: #FFAF40;
   border-radius: 10px;
-
 }
  
 ::-moz-selection{
-  color:#7B2CFF;
+  color: #7B2CFF;
   background: #FFAF40;
   border-radius: 10px;
 
 }
 
 
+}
 
+
+*.tip{
+  color:green
 }
